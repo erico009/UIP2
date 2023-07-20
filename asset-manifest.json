@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//erico009.github.io/UIP2/static/css/main.3c7fad2d.css",
+    "main.js": "/https//erico009.github.io/UIP2/static/js/main.3778859d.js",
+    "index.html": "/https//erico009.github.io/UIP2/index.html",
+    "main.3c7fad2d.css.map": "/https//erico009.github.io/UIP2/static/css/main.3c7fad2d.css.map",
+    "main.3778859d.js.map": "/https//erico009.github.io/UIP2/static/js/main.3778859d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7fad2d.css",
+    "static/js/main.3778859d.js"
+  ]
+}
