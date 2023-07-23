@@ -10,7 +10,7 @@ const linkStyle = {
 const Navbar = () => {
     const languages=[
         {"id":1,"title":"English","Home":"Home","Menu":"Menu","AboutUs":"About Us", "TrackOrder":"Track Order"},
-        {"id":2,"title":"French","Home":"Page d'accueil","Menu":"Menu","AboutUs":"À propos de nous", "TrackOrder":"Suivi de commande"}
+        {"id":2,"title":"Francais","Home":"Page d'accueil","Menu":"Menu","AboutUs":"À propos de nous", "TrackOrder":"Suivi de commande"}
     ];
     const [selectedLanguage,selectLanguage]=useState("English");
     const changeLanguage = (e) =>{
