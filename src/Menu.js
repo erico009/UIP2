@@ -22,9 +22,6 @@ const Menu = () => {
           tempProduct.push(...drinks.filter((a) => a.category === c.value));
         }
       }
-      if(tempProduct===[]){
-        tempProduct=drinks;
-      }
   
       setTypeProducts([...tempProduct]);
       finalFilter();
@@ -62,7 +59,7 @@ const Menu = () => {
       setFilteredProducts([...result]);
     }
     
-    return <div>
+    return <div className='container-md'>
       <h1 class='mx-5'>Menu</h1>
       <div className='d-flex justify-content-evenly'>
           {

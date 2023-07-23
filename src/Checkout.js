@@ -5,8 +5,7 @@ const Checkout = () => {
     ];
     const initialValue = 0;
     const total = cart.reduce((accumulator,current) => accumulator + current.price, initialValue)
-    return(
-        <><h1 class='mx-5'>Checkout</h1><div className="maincontainer">
+    return(<div className='container-md'><h1 class='mx-5'>Checkout</h1><div className="maincontainer">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 order-md-2 mb-4">
@@ -154,7 +153,7 @@ const Checkout = () => {
                 </div>
             </div>
 
-        </div></>
+        </div></div>
     );
 }
 
