@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/https//erico009.github.io/UIP2/static/css/main.3c7fad2d.css",
-    "main.js": "/https//erico009.github.io/UIP2/static/js/main.3778859d.js",
+    "main.css": "/https//erico009.github.io/UIP2/static/css/main.dcc5f113.css",
+    "main.js": "/https//erico009.github.io/UIP2/static/js/main.5505d527.js",
+    "static/media/Pearl Milk Tea.png": "/https//erico009.github.io/UIP2/static/media/Pearl Milk Tea.7f1a7490a8d1108087ce.png",
+    "static/media/Milk Tea.png": "/https//erico009.github.io/UIP2/static/media/Milk Tea.fdceab1fafbf31eb84fd.png",
+    "static/media/Strawberry Tea.png": "/https//erico009.github.io/UIP2/static/media/Strawberry Tea.4f5af929cfda07a9ec55.png",
+    "static/media/Peach Juice.png": "/https//erico009.github.io/UIP2/static/media/Peach Juice.e38724bb8757a0d3ff7e.png",
+    "static/media/Chocolate Smoothie.png": "/https//erico009.github.io/UIP2/static/media/Chocolate Smoothie.22a30535646b4a3e658d.png",
+    "static/media/popping boba.png": "/https//erico009.github.io/UIP2/static/media/popping boba.d57d929543a52c74b97f.png",
+    "static/media/logo.png": "/https//erico009.github.io/UIP2/static/media/logo.542829e3319078928a7e.png",
+    "static/media/coffee jelly.png": "/https//erico009.github.io/UIP2/static/media/coffee jelly.a6c532f4ef6bf6263098.png",
+    "static/media/cocnut jelly.png": "/https//erico009.github.io/UIP2/static/media/cocnut jelly.34647d89722259cca23c.png",
+    "static/media/pearls.png": "/https//erico009.github.io/UIP2/static/media/pearls.cb272beb98e6956fd6de.png",
     "index.html": "/https//erico009.github.io/UIP2/index.html",
-    "main.3c7fad2d.css.map": "/https//erico009.github.io/UIP2/static/css/main.3c7fad2d.css.map",
-    "main.3778859d.js.map": "/https//erico009.github.io/UIP2/static/js/main.3778859d.js.map"
+    "main.dcc5f113.css.map": "/https//erico009.github.io/UIP2/static/css/main.dcc5f113.css.map",
+    "main.5505d527.js.map": "/https//erico009.github.io/UIP2/static/js/main.5505d527.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7fad2d.css",
-    "static/js/main.3778859d.js"
+    "static/css/main.dcc5f113.css",
+    "static/js/main.5505d527.js"
   ]
 }
