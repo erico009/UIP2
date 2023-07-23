@@ -8,6 +8,7 @@ import Menu from './Menu';
 import Checkout from './Checkout';
 import AboutUs from './AboutUs';
 import TrackOrder from './TrackOrder';
+import Footer from './Footer';
 function App() {
   return (
     <Router>
@@ -23,6 +24,7 @@ function App() {
             <Route path='/TrackOrder' element={<TrackOrder />} />
           </Routes>
         </div>
+        <Footer/>
       </div>
     </Router>
   );
